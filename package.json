@@ -1,0 +1,23 @@
+{
+  "name": "profile",
+  "version": "1.0.0",
+  "description": "Portafolio Richard Quispe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "sass --watch src/sass/style.sass:css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richardquispe/richardquispe.github.io.git"
+  },
+  "author": "Richard Quispe <rqvera@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/richardquispe/richardquispe.github.io/issues"
+  },
+  "homepage": "https://github.com/richardquispe/richardquispe.github.io#readme",
+  "devDependencies": {
+    "sass": "^1.24.2"
+  }
+}
